@@ -12,3 +12,4 @@
 /Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.pdb
 /Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.genruntimeconfig.cache
 /Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/ref/VersionInfo.dll
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.sourcelink.json
