@@ -1,0 +1,14 @@
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/bin/Debug/net8.0/VersionInfo
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/bin/Debug/net8.0/VersionInfo.deps.json
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/bin/Debug/net8.0/VersionInfo.runtimeconfig.json
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/bin/Debug/net8.0/VersionInfo.dll
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/bin/Debug/net8.0/VersionInfo.pdb
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.AssemblyInfoInputs.cache
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.AssemblyInfo.cs
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.csproj.CoreCompileInputs.cache
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.dll
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/refint/VersionInfo.dll
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.pdb
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/VersionInfo.genruntimeconfig.cache
+/Users/horiokayuta/Desktop/競プロ/VersionInfo/obj/Debug/net8.0/ref/VersionInfo.dll
